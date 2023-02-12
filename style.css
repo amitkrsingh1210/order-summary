@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(214, 225, 255);
+}
+div{
+    height: 700px;
+    width:  450px;
+    background-color: #ffff;
+    margin: 100px auto;
+    border-radius: 20px;
+    overflow: hidden;
+}
+h1{
+    text-align: center;
+    color: rgb(34, 53, 93);
+    margin-top: 40px;
+}
+.spd{
+    text-align: center;
+    color: rgb(142, 149, 175);
+    padding:60px;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: -60px;
+    font-family: cursive;
+}
+#abc{
+    margin-left:40px;
+    margin-top: -40px;
+
+}
+.abc{
+    background-color: rgb(248, 249, 254);
+    height: 100px;
+    width: 80%;
+    border-radius: 15px;
+    margin-top: -50px;
+
+
+}
+.xyz{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+h3{
+    display: inline;
+    position: relative;
+    top: -38px;
+    left: 38px;
+}
+.abc p{
+    margin-left: 140px;
+    margin-top: -35px;
+
+}
+a{
+    position: relative;
+    top: -48px;
+    left: 275px;
+    font-size: 20px;
+}
+.pqr{
+    background-color: rgb(56, 42, 225);
+    width: 80%;
+    height: 40px;
+    color: #ffff;
+    text-align: center;
+    padding-top: 18px;
+    font-size: 20px;
+    position: relative;
+    margin-top: -70px;
+}
+#pqr{
+    margin: -70px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(142, 149, 175);
+}
